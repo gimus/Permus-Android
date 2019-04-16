@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="___apiServer">http://192.168.1.105/</string>
+    <string name="apiServer">http://www.pardesca.it:4080/permus/</string>
+    <integer name="tick">3000</integer>
+ </resources>
